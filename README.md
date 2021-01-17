@@ -1,3 +1,5 @@
+## CS2103 Information/Links
+
 CS2103 Home Page: http://www.comp.nus.edu.sg/~cs2103
 
 CS2103 Forum: https://github.com/nus-cs2103-AY2021S2/forum
@@ -8,3 +10,11 @@ CS2103 Timeline: https://nus-cs2103-ay2021s2.github.io/website/schedule/timeline
 
 CS2103 iP: https://github.com/nus-cs2103-AY2021S2/ip
 - My Fork: https://github.com/yaowei-soc/ip
+
+## Standards/Conventions
+
+Java
+- Follow the **basic and intermediate rules** in [SE-EDU Java coding standard](https://se-education.org/guides/conventions/java/intermediate.html)
+
+Git
+- Follow the **commit message subject conventions** in [SE-EDU Git Conventions](https://se-education.org/guides/conventions/git.html)
