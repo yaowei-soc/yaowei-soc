@@ -18,3 +18,4 @@ Java
 
 Git
 - Follow the **commit message subject conventions** in [SE-EDU Git Conventions](https://se-education.org/guides/conventions/git.html)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
