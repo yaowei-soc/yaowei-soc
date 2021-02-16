@@ -10,6 +10,8 @@ CS2103 Timeline: https://nus-cs2103-ay2021s2.github.io/website/schedule/timeline
 
 CS2103 iP: https://github.com/nus-cs2103-AY2021S2/ip
 - My Fork: https://github.com/yaowei-soc/ip
+- iP Progress: https://nus-cs2103-ay2021s2.github.io/dashboards/contents/ip-progress.html
+- Extensions: https://nus-cs2103-ay2021s2.github.io/website/se-book-adapted/projectDuke/index.html
 
 ## Standards/Conventions
 
