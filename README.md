@@ -12,9 +12,13 @@ CS2103 iP: https://github.com/nus-cs2103-AY2021S2/ip
 - My Fork: https://github.com/yaowei-soc/ip
 - iP Progress: https://nus-cs2103-ay2021s2.github.io/dashboards/contents/ip-progress.html
 - Extensions: https://nus-cs2103-ay2021s2.github.io/website/se-book-adapted/projectDuke/index.html
-CS2103 tP: https://github.com/AY2021S2-CS2103T-T12-3/tp
-- **Projects: https://github.com/AY2021S2-CS2103T-T12-3/tp/projects**
-- **My Fork: https://github.com/yaowei-soc/tp**
+
+**CS2103 tP**: https://github.com/AY2021S2-CS2103T-T12-3/tp
+| tp upstream | https://github.com/AY2021S2-CS2103T-T12-3/tp |
+|-|-|
+| tp origin | https://github.com/yaowei-soc/tp |
+| tp upstream issues | https://github.com/AY2021S2-CS2103T-T12-3/tp/issues |
+| tp upstream pr | https://github.com/AY2021S2-CS2103T-T12-3/tp/pulls |
 
 
 ## Standards/Conventions
